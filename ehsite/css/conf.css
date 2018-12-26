@@ -1,0 +1,73 @@
+/**
+div{
+  border: 1px solid #000;
+  height: 100px;
+}**/
+nav div ul li a {
+    color: #ffffff;
+}
+
+nav div a{
+  color: #ffffff;
+}
+
+nav div ul li a:link, a:visited {
+	text-decoration: none
+	}
+
+nav div a:hover {
+	background-color: #273071;
+  color: #ffffff;
+	}
+
+h1 {
+  font-size: 350%;
+}
+
+body {
+  font-size: 120%;
+  font-family: 'Share Tech Mono', monospace;
+  padding-top: 140px;
+  padding-bottom: 50px;
+  background-color: #273071;
+  color: #ffffff;
+}
+
+nav {
+  background-color: #0b0136;
+}
+
+p {
+  padding-top: 8%;
+}
+
+#team {
+  padding-top: 8%;
+}
+
+#projects {
+  padding-top: 8%;
+}
+
+#carouselExampleControls {
+  padding-top: 8%;
+}
+
+.carousel-control-prev {
+  padding-top: 40%;
+}
+
+.carousel-control-next{
+  padding-top: 40%;
+}
+
+#contact {
+  padding-top: 10%;
+}
+
+.carousel {
+    width: 60%;
+    height: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
