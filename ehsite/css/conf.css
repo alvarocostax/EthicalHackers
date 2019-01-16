@@ -4,11 +4,11 @@ div{
   height: 100px;
 }**/
 nav div ul li a {
-    color: #ffffff;
+    color: #000000;
 }
 
 nav div a{
-  color: #ffffff;
+  color: #000000;
 }
 
 nav div ul li a:link, a:visited {
@@ -17,7 +17,7 @@ nav div ul li a:link, a:visited {
 
 nav div a:hover {
 	background-color: #273071;
-  color: #ffffff;
+  color: #000000;
 	}
 
 h1 {
@@ -29,12 +29,12 @@ body {
   font-family: 'Share Tech Mono', monospace;
   padding-top: 140px;
   padding-bottom: 50px;
-  background-color: #273071;
+  background-color: #1b1818;
   color: #ffffff;
 }
 
 nav {
-  background-color: #0b0136;
+  background-color: #ffffff;
 }
 
 p {
